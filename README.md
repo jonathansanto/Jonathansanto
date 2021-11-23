@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como analista de suporte
 - 🌱 Estudando Full Stack
-- 📫 Contate-me no email: joanthanoesanto@outlook.com
+- 📫 Contate-me no email: jonathanoesanto@outlook.com
 - 😄 Pronomes: ele/dele
 
 ##
